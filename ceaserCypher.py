@@ -38,3 +38,5 @@ while Uchoice == "true":
     else:
         print("invalid input")
         choice = input("Type 'yes' to continue encoding/decoding or 'no' to stop: ").lower()
+
+    
